@@ -1,0 +1,13 @@
+.place__image {
+  background-size: contain;
+  background-repeat: no-repeat;
+  grid-area: -1 / 1 / 2 / 1;
+}
+
+@media screen and (max-width: 674px) {
+  .place__image {
+    max-width: 100%;
+    padding-bottom: 100%;
+    grid-area: 3 / 1 / 4 / 2;
+  }
+}

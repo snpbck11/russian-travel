@@ -1,0 +1,5 @@
+.header__lang-selector {
+  display: flex;
+  gap: 18px;
+  align-items: end;
+}
