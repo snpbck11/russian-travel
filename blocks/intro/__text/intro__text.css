@@ -5,9 +5,3 @@
   color: #fff;
   margin: 40px 0 33px 0;
 }
-
-@media screen and (max-width: 674px) {
-  .intro__text {
-    margin: 40px 0 34px 0;
-  }
-}
